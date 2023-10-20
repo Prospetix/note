@@ -1,5 +1,5 @@
 import { motion, AnimatePresence } from "framer-motion";
-import React, { useState } from "react";
+import { useState } from "react";
 import { colors, notes } from "./../State";
 import ReactQuill from "react-quill";
 import { signal, computed } from "@preact/signals-react";
