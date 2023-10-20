@@ -297,6 +297,7 @@ span {
   margin-bottom: 10px;
   display: flex;
   justify-content: space-between;
+  user-select: none;
 }
 .flex{
   display: flex;
@@ -456,6 +457,7 @@ span {
     font-size: 1.3rem;
     font-weight: 600;
     text-transform: capitalize;
+    user-select: none;
   }
   .savenotes.opennote h6 {
     position: absolute;
