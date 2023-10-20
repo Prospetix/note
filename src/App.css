@@ -261,6 +261,7 @@ span {
   padding-top: 10px;
   padding-bottom: 10px;
   cursor: grab;
+  left: -1px;
 }
 .notes h5 {
   color: rgb(223, 214, 214);
